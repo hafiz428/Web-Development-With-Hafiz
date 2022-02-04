@@ -1,0 +1,75 @@
+body{
+  font-family: 'Bebas Neue', cursive;
+  font-family: 'Comforter', cursive;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Quintessential', cursive;
+  background-color: #111a28;
+  color: white;
+  margin: 0;
+}
+h1{
+  color: white;
+  font-size: 35px;
+}
+h2{
+  color: green;
+}
+h3{
+  color: green;
+}
+.half-width{
+  width: 40%;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+#hafiz{
+  background-color: green;
+  color: white;
+  padding: 5px 12px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+#hardy{
+  text-decoration: none;
+  padding: 5px;
+  color: rgb(64, 192, 64);
+  border: green solid 1px;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+section{
+  height: 200px;
+  padding-bottom: 100px;
+}
+.half-width-hafiz{
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.half-width-hafiz img{
+  width: 100%;
+}
+.roman{
+  text-align: center;
+}
+.zoya img{
+  width: 10%;
+  margin: 3px;
+  text-align: center;
+}
+.daffodil{
+  width: 40%;
+}
+.class{
+  height: 200px;
+}
+.can-be{
+  text-align: center;
+  padding-left: 30%;
+}
+#school{
+  text-align: center;
+}
